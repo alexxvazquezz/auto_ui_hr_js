@@ -1,0 +1,17 @@
+{
+  "name": "auto_ui_hr_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.16.0"
+  },
+  "dependencies": {
+    "@ngneat/falso": "^7.2.0"
+  }
+}
